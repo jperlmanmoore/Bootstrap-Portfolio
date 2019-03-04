@@ -1,0 +1,14 @@
+#bg {
+    background-image: url(../images/background.png);
+    background-repeat: space;
+    width: 100%;
+    min-height: 100%;
+    position: fixed;
+    top: 78px;
+    z-index: -1;;
+}
+
+.nav-link {
+    color: #77777;
+    float: right;
+}
