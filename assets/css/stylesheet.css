@@ -22,4 +22,14 @@
     color: #4aaaa5 !important;
 }
 
+#card-footer {
+    background-color: #4aaaa5;
+}
 
+#cardfootertext {
+    text-align: center !important;
+}
+
+#card-outline {
+    border: white;
+}
